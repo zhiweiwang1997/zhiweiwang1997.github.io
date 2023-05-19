@@ -30,6 +30,11 @@ Zhi-wei Wang currently works as a Ph.D. student at the School of Civil Engineeri
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 A paper submitted to *Computers & Structures* was accepted. 
 
+# 📖 Educations
+- *2020 - 22*, **Ph.D.**, Civil Engineering, Tongji University (Project 985), Shanghai, China. 
+- *2014 - 2017*, **Master**, Bridge Engineering, Chang'an University (Project 211), Xi'an, China. 
+- *2010 - 2014*, **Bachelor**, Bridge Engineering, Chang'an University (Project 211), Xi'an, China.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -49,10 +54,6 @@ Zhi-wei Wang currently works as a Ph.D. student at the School of Civil Engineeri
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
