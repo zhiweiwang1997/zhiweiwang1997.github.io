@@ -17,11 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhi-wei Wang currently works as a Ph.D. student at the School of Civil Engineering, Southeast University (China). My research interest focuses on determining the joint design values of wind and thermal actions on long-span cable-stayed bridges, including: </div>
-(i) joint distribution of wind speed, wind direction, and temperature; </div>
-(ii) reliability analysis of cable-stayed bridges; </div>
-(iii) environmental contours method; and </div>
-(iv) wind and temperature prediction based on machine learning.</div>
+Zhi-wei Wang currently works as a Ph.D. student at the School of Civil Engineering, Southeast University (China). My research interest focuses on determining the joint design values of wind and thermal actions on long-span cable-stayed bridges, including: 
+
+- joint distribution of wind speed, wind direction, and temperature; 
+
+- reliability analysis of cable-stayed bridges; 
+
+- environmental contours method; and 
+
+- wind and temperature prediction based on machine learning.
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 A paper submitted to *Computers & Structures* was accepted. 
