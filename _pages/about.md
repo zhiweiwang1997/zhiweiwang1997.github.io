@@ -31,9 +31,10 @@ Zhi-wei Wang currently works as a Ph.D. student at the School of Civil Engineeri
 - *2023.05*: &nbsp;🎉🎉 A paper submitted to *Computers & Structures* was accepted. 
 
 # 📖 Educations
-- *2020 - 22*, **Ph.D.**, Civil Engineering, Tongji University (Project 985), Shanghai, China. 
-- *2014 - 2017*, **Master**, Bridge Engineering, Chang'an University (Project 211), Xi'an, China. 
-- *2010 - 2014*, **Bachelor**, Bridge Engineering, Chang'an University (Project 211), Xi'an, China.
+- *2022.11 - present*, **Guest doctoral student**, Institute for Risk and Reliability, Leibniz Universität Hannover, Hannover, Germany. 
+- *2020.04 - present*, **Ph.D. candidate**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
+- *2018.09 - 2020.01*, **Master student**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
+- *2014.09 - 2018.06*, **Bachelor of Engineering**, Civil Engineering, Southeast University (Project 985), Nanjing, China.
 
 # 📝 Publications 
 
