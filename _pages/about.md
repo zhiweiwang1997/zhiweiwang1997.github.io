@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhi-wei Wang (王志伟) is currently a Ph.D. student at School of Civil Engineering, Southeast University (China). His research interest focuses on:
+Zhi-wei Wang (王志伟) is a Ph.D. student at School of Civil Engineering, Southeast University (China), supervised by Prof. Wen-ming Zhang (张文明), national high-level young talent of China. Currently, Zhi-wei Wang is a visiting Ph.D. student at Institute for Risk and Reliability, Leibniz Universität Hannover (host: Prof. Dr-Ing. Michael Beer).
+
+His research interest mainly focuses on:
 
 - **Joint probability distribution modeling using Copula**
 
