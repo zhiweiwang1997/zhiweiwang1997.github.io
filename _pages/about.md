@@ -44,6 +44,15 @@ Zhi-wei Wang currently works as a Ph.D. student at the School of Civil Engineeri
 - **Zhi-wei Wang**, Wen-ming Zhang, Yu-feng Zhang, Zhao Liu. 2021. [Circular-linear-linear probabilistic model based on vine copulas: An application to the joint distribution of wind direction, wind speed, and air temperature](https://doi.org/10.1016/j.jweia.2021.104704). Journal of Wind Engineering & Industrial Aerodynamics, 215, 104704.
 - **Zhi-wei Wang**, Wen-ming Zhang, Gen-min Tian, Zhao Liu. 2020. [Joint values determination of wind and temperature actions on long-span bridges: Copula-based analysis using long-term meteorological data](https://doi.org/10.1016/j.engstruct.2020.110866). Engineering Structures, 219, 110866.
 
+
+-  Wen-ming Zhang, **Zhi-wei Wang**. 2023. [Frequency-Based Cable Tension Identification Using a Nonlinear Model with Complex Boundary Constraints](https://doi.org/10.1155/2023/7795452). Shock and Vibration, 2023, 7795452.
+-  Wen-ming Zhang, **Zhi-wei Wang**, Dan-dian Feng, Zhao Liu. 2021. [Frequency-based tension assessment of an inclined cable with complex boundary conditions using the PSO algorithm](10.12989/sem.2021.79.5.619). Structural Engineering and Mechanics, 79(5), 619-639.
+-  Wen-ming Zhang, **Zhi-wei Wang**, Zhao Liu. 2020. [Joint distribution of wind speed, wind direction, and air temperature actions on long-span bridges derived via trivariate metaelliptical and Plackett copulas](https://doi.org/10.1061/(Asce)Be.1943-5592.0001608). Journal of Bridge Engineering, ASCE, 25(9), 04020069.
+-  Wen-ming Zhang, **Zhi-wei Wang**, Hao-qing Zhang, Xiao-fan Lu, Zhao Liu. 2020. [Analytical study on free vertical and torsional vibrations of two- and three-pylon suspension bridges via d'Alembert's principle](10.12989/sem.2020.76.3.293). Structural Engineering and Mechanics, 76(3), 293-310.
+
+-  Wen-ming Zhang, Xiao-fan Lu, **Zhi-wei Wang**, Zhao Liu. 2021. [Effect of the main cable bending stiffness on flexural and torsional vibrations of suspension bridges: Analytical approach](https://doi.org/10.1016/j.engstruct.2021.112393). Engineering Structures, 240, 112393.
+-  Wen-ming Zhang, Chao-yu Yang, **Zhi-wei Wang**, Zhao Liu. 2019. [An analytical algorithm for reasonable central tower stiffness in the three-tower suspension bridge with unequal-length main spans](https://doi.org/10.1016/j.engstruct.2019.109595). Engineering Structures, 199, 109595.
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
