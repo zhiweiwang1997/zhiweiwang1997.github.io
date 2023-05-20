@@ -38,7 +38,10 @@ Zhi-wei Wang currently works as a Ph.D. student at the School of Civil Engineeri
 
 # 📝 Publications 
 
-- **Zhi-wei Wang**, .[Deep learning-based reconstruction of missing long-term girder-end displacement data for suspension bridge health monitoring](https://doi.org/10.1016/j.compstruc.2023.107070), Computers & Structures.
+- **Zhi-wei Wang**, Xiao-fan Lu, Wen-ming Zhang, Vasileios C. Fragkoulis, Michael Beer, Yu-feng Zhang. 2023. [Deep learning-based reconstruction of missing long-term girder-end displacement data for suspension bridge health monitoring](https://doi.org/10.1016/j.compstruc.2023.107070). Computers & Structures, 284, 107070.
+- **Zhi-wei Wang**, An-dong Li, Wen-ming Zhang, Yu-feng Zhang. 2022. [Long-term missing wind data recovery using free access databases and deep learning for bridge health monitoring](https://doi.org/10.1016/j.jweia.2022.105201). Journal of Wind Engineering & Industrial Aerodynamics, 230, 105201.
+- **Zhi-wei Wang**, Wen-ming Zhang, Yu-feng Zhang, Zhao Liu. 2022. [Temperature Prediction of Flat Steel Box Girders of Long-Span Bridges Utilizing In Situ Environmental Parameters and Machine Learning](https://doi.org/10.1061/(Asce)Be.1943-5592.0001840). Journal of Wind Engineering & Industrial Aerodynamics, 230, 105201.
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
