@@ -25,7 +25,7 @@ His research interest mainly focuses on:
 
 - **Design load combinations of wind and temperature actions for long-span bridges using reliability-based environmental contours**
 
-- **Deep learning techniques used in bridges'structural health monitoring (SHM)**
+- **Deep learning techniques used in bridges' structural health monitoring (SHM)**
 
 - **Reliability analysis of cable-stayed bridges**
 
