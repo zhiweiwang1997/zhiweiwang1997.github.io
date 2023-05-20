@@ -58,4 +58,4 @@ Zhi-wei Wang currently works as a Ph.D. student at the School of Civil Engineeri
 - *2022*, **Chinese Government Scholarship**, China Scholarship Council
 - *2022*, **National Scholarship for Doctoral Students**, Ministry of Education of P. R. China
 - *2020*, **Doctoral freshman scholarship**, Southeast University
-- *2014-2018*, **Cyrus Tang Scholarship**，Cyrus Tang Foundation
+- *2014-2018*, **Cyrus Tang Scholarship**, Cyrus Tang Foundation
