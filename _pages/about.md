@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhi-wei Wang (王志伟) is a Ph.D. student at School of Civil Engineering, Southeast University (China), supervised by Prof. Wen-ming Zhang (张文明), national high-level young talent of China. Currently, Zhi-wei Wang is a visiting Ph.D. student at Institute for Risk and Reliability, Leibniz Universität Hannover (host: Prof. Dr-Ing. Michael Beer).
+Zhi-wei Wang (王志伟) is a Ph.D. student at the School of Civil Engineering, Southeast University (China), supervised by Prof. Wen-ming Zhang (张文明), national high-level young talent in China. Currently, Zhi-wei Wang is a visiting Ph.D. student at the Institute for Risk and Reliability, Leibniz Universität Hannover (host: Prof. Dr-Ing. Michael Beer).
 
 His research interest mainly focuses on:
 
@@ -25,7 +25,7 @@ His research interest mainly focuses on:
 
 - **Design load combinations of wind and temperature actions for long-span bridges using reliability-based environmental contours**
 
-- **Deep learning techniques used in structural health monitoring (SHM) of bridges**
+- **Deep learning techniques used in bridges'structural health monitoring (SHM)**
 
 - **Reliability analysis of cable-stayed bridges**
 
