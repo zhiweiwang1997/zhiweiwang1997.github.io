@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhi-wei Wang (王志伟) is a Ph.D. student at the School of Civil Engineering, Southeast University (China), supervised by Prof. Wen-ming Zhang (张文明), national high-level young talent in China. Currently, Zhi-wei Wang is a visiting Ph.D. student at the Institute for Risk and Reliability, Leibniz Universität Hannover (host: Prof. Dr-Ing. Michael Beer).
+Zhi-wei Wang (王志伟) is a Ph.D. student at the School of Civil Engineering, Southeast University (China), supervised by Prof. Wen-ming Zhang (张文明), national high-level young talent in China. He was a visiting Ph.D. student at the Institute for Risk and Reliability, Leibniz Universität Hannover in 2022-2023 (host: Prof. Dr-Ing. Michael Beer).
 
 His research interests mainly focus on:
 
@@ -31,16 +31,18 @@ His research interests mainly focus on:
 
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 A paper submitted to *Computers & Structures* was accepted. 
+
+- *2024.02*: &nbsp;🎉🎉 A paper submitted to *Journal of Wind Engineering & Industrial Aerodynamics* was accepted. 
 
 # 📖 Educations
-- *2022.11 - present*, **Guest doctoral student**, Institute for Risk and Reliability, Leibniz Universität Hannover, Hannover, Germany. 
 - *2020.04 - present*, **Ph.D. candidate**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
+- *2022.11 - 2023.11*, **Guest doctoral student**, Institute for Risk and Reliability, Leibniz Universität Hannover, Hannover, Germany. 
 - *2018.09 - 2020.01*, **Master student**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
 - *2014.09 - 2018.06*, **Bachelor of Engineering**, Civil Engineering, Southeast University (Project 985), Nanjing, China.
 
 # 📝 Publications 
 
+- **Zhi-wei Wang**, Xiao-fan Lu, Wen-ming Zhang, Vasileios C. Fragkoulis, Yu-feng Zhang, Michael Beer. 2024. Deep learning-based prediction of wind-induced lateral displacement response of suspension bridge decks for structural health monitoring. Journal of Wind Engineering & Industrial Aerodynamics. (Accepted)
 - **Zhi-wei Wang**, Xiao-fan Lu, Wen-ming Zhang, Vasileios C. Fragkoulis, Michael Beer, Yu-feng Zhang. 2023. [Deep learning-based reconstruction of missing long-term girder-end displacement data for suspension bridge health monitoring](https://doi.org/10.1016/j.compstruc.2023.107070). Computers & Structures, 284, 107070.
 - **Zhi-wei Wang**, An-dong Li, Wen-ming Zhang, Yu-feng Zhang. 2022. [Long-term missing wind data recovery using free access databases and deep learning for bridge health monitoring](https://doi.org/10.1016/j.jweia.2022.105201). Journal of Wind Engineering & Industrial Aerodynamics, 230, 105201.
 - **Zhi-wei Wang**, Wen-ming Zhang, Yu-feng Zhang, Zhao Liu. 2022. [Temperature Prediction of Flat Steel Box Girders of Long-Span Bridges Utilizing In Situ Environmental Parameters and Machine Learning](https://doi.org/10.1061/(Asce)Be.1943-5592.0001840). Journal of Bridge Engineering, ASCE, 27(3), 04022004.
