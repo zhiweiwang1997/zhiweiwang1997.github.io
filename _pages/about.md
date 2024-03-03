@@ -42,7 +42,7 @@ His research interests mainly focus on:
 
 # 📝 Publications 
 
-- **Zhi-wei Wang**, Xiao-fan Lu, Wen-ming Zhang, Vasileios C. Fragkoulis, Yu-feng Zhang, Michael Beer. 2024. Deep learning-based prediction of wind-induced lateral displacement response of suspension bridge decks for structural health monitoring. Journal of Wind Engineering & Industrial Aerodynamics. (Accepted)
+- **Zhi-wei Wang**, Xiao-fan Lu, Wen-ming Zhang, Vasileios C. Fragkoulis, Yu-feng Zhang, Michael Beer. 2024. [Deep learning-based prediction of wind-induced lateral displacement response of suspension bridge decks for structural health monitoring](https://doi.org/10.1016/j.jweia.2024.105679). Journal of Wind Engineering & Industrial Aerodynamics, 247, 105679.
 - **Zhi-wei Wang**, Xiao-fan Lu, Wen-ming Zhang, Vasileios C. Fragkoulis, Michael Beer, Yu-feng Zhang. 2023. [Deep learning-based reconstruction of missing long-term girder-end displacement data for suspension bridge health monitoring](https://doi.org/10.1016/j.compstruc.2023.107070). Computers & Structures, 284, 107070.
 - **Zhi-wei Wang**, An-dong Li, Wen-ming Zhang, Yu-feng Zhang. 2022. [Long-term missing wind data recovery using free access databases and deep learning for bridge health monitoring](https://doi.org/10.1016/j.jweia.2022.105201). Journal of Wind Engineering & Industrial Aerodynamics, 230, 105201.
 - **Zhi-wei Wang**, Wen-ming Zhang, Yu-feng Zhang, Zhao Liu. 2022. [Temperature Prediction of Flat Steel Box Girders of Long-Span Bridges Utilizing In Situ Environmental Parameters and Machine Learning](https://doi.org/10.1061/(Asce)Be.1943-5592.0001840). Journal of Bridge Engineering, ASCE, 27(3), 04022004.
