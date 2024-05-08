@@ -70,7 +70,7 @@ His research interests mainly focus on:
   
 - **Zhi-wei Wang**, Wen-ming Zhang, Michael Beer. Non-parametric directional environmental contours: A method for estimating bridge design load combinations of wind and temperature. *Engineering Mechanics Institute Conference and Probabilistic Mechanics & Reliability Conference 2024 (EMI/PMC 2024), ASCE*, May 28-31, 2024, Chicago, USA.
   
-- **Zhi-wei Wang**, Wen-ming Zhang, Michael Beer. Non-parametric directional environmental contours: A method for estimating bridge design load combinations of wind and temperature. *The 4th International Conference on Vulnerability and Risk Analysis and Management (ICVRAM 2024) & the 8th International Symposium on Uncertainty Modelling and Analysis (ISUMA 2024), ASCE*, April 25-28, 2024, Shanghai, China.
+- **Zhi-wei Wang**, Wen-ming Zhang, Michael Beer. Non-Parametric Directional Environmental Contour Method with Uncertainty Quantification: Estimation of Design Load Combinations. *The 4th International Conference on Vulnerability and Risk Analysis and Management (ICVRAM 2024) & the 8th International Symposium on Uncertainty Modelling and Analysis (ISUMA 2024), ASCE*, April 25-28, 2024, Shanghai, China.
   
 - **Zhi-wei Wang**, Wen-ming Zhang, Yu-feng Zhang. Long-term missing wind data recovery for bridge health monitoring using deep learning. *IABSE CONGRESS NANJING 2022*, September 21-23, 2022, Nanjing, China.
 
