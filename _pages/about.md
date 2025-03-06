@@ -17,27 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhi-wei Wang (王志伟) is a Ph.D. student at the School of Civil Engineering, Southeast University (China), supervised by Prof. Wen-ming Zhang (张文明), national high-level young talent in China. He was a visiting Ph.D. student at the Institute for Risk and Reliability, Leibniz Universität Hannover in 2022-2023 (host: Prof. Dr-Ing. Michael Beer).
+Zhi-wei Wang (王志伟) obtained his PhD at the School of Civil Engineering, Southeast University (China), supervised by Prof. Wen-ming Zhang (张文明). He was a visiting Ph.D. student at the Institute for Risk and Reliability, Leibniz Universität Hannover in 2022-2023 (host: Prof. Dr-Ing. Michael Beer).
 
 His research interests mainly focus on:
 
-- **Joint probability distribution modeling using copulas with special emphasis on circular/directional variables**
- 
-- **Directional environmental contour method with uncertainty quantification: Estimation of design load combinations**
+- **Bridge wind engineering**
 
-- **Bayesian optimization on Riemannian manifolds: Finding extreme responses on environmental contours**
+- **Non-Euclidean joint probability distribution modeling**
 
-- **Deep learning techniques used in bridges' structural health monitoring (SHM)**
+- **Bayesian inverse reliability method**
 
-- **Reliability analysis of cable-stayed bridges**
-
-
-# 🔥 News
-
-- *2024.02*: &nbsp;🎉🎉 A paper submitted to *Journal of Wind Engineering & Industrial Aerodynamics* was accepted. 
+- **Deep learning techniques for structural health monitoring (SHM)**
 
 # 📖 Educations
-- *2020.04 - present*, **Ph.D. candidate**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
+- *2020.04 - 2025.02*, **Dortor of Engineering**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
 - *2022.11 - 2023.11*, **Guest doctoral student**, Institute for Risk and Reliability, Leibniz Universität Hannover, Hannover, Germany. 
 - *2018.09 - 2020.01*, **Master student**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
 - *2014.09 - 2018.06*, **Bachelor of Engineering**, Civil Engineering, Southeast University (Project 985), Nanjing, China.
@@ -60,6 +53,7 @@ His research interests mainly focus on:
 -  Wen-ming Zhang, **Zhi-wei Wang**, Hao-qing Zhang, Xiao-fan Lu, Zhao Liu. 2020. [Analytical study on free vertical and torsional vibrations of two- and three-pylon suspension bridges via d'Alembert's principle](10.12989/sem.2020.76.3.293). Structural Engineering and Mechanics, 76(3), 293-310.
   
 ## &emsp;
+-  Li-ming Zhao, Wen-ming Zhang, **Zhi-wei Wang**, Yao-jun Ge, Nan Jiang. 2024. [Nonlinear unsteady aerodynamic forces prediction and aeroelastic analysis of wind-induced bridge response at multiple wind speeds: A deep learning-based reduced-order model](https://doi.org/10.1016/j.jweia.2024.105905). Journal of Wind Engineering & Industrial Aerodynamics, 254, 105905.
 -  Wen-ming Zhang, Zhe-hong Zhang, **Zhi-wei Wang**, Bin Chen. 2024. [Temperature analysis and prediction for road-rail steel truss cable-stayed bridges based on the structural health monitoring](https://doi.org/10.1016/j.engstruct.2024.118476). Engineering Structures, 315, 118476.
 -  Wen-ming Zhang, Xiao-fan Lu, **Zhi-wei Wang**, Zhao Liu. 2021. [Effect of the main cable bending stiffness on flexural and torsional vibrations of suspension bridges: Analytical approach](https://doi.org/10.1016/j.engstruct.2021.112393). Engineering Structures, 240, 112393.
 -  Wen-ming Zhang, Chao-yu Yang, **Zhi-wei Wang**, Zhao Liu. 2019. [An analytical algorithm for reasonable central tower stiffness in the three-tower suspension bridge with unequal-length main spans](https://doi.org/10.1016/j.engstruct.2019.109595). Engineering Structures, 199, 109595.
