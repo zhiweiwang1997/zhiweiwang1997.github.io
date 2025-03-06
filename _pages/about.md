@@ -30,7 +30,7 @@ His research interests mainly focus on:
 - **Deep learning techniques for structural health monitoring (SHM)**
 
 # 📖 Educations
-- *2020.04 - 2025.02*, **Dortor of Engineering**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
+- *2020.04 - 2025.02*, **Doctor of Engineering**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
 - *2022.11 - 2023.11*, **Guest doctoral student**, Institute for Risk and Reliability, Leibniz Universität Hannover, Hannover, Germany. 
 - *2018.09 - 2020.01*, **Master student**, Civil Engineering, Southeast University (Project 985), Nanjing, China. 
 - *2014.09 - 2018.06*, **Bachelor of Engineering**, Civil Engineering, Southeast University (Project 985), Nanjing, China.
